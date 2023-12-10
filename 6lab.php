@@ -1,5 +1,5 @@
 <?php
-$a = array('color'=> 'red',
+$a = array('color'=> '',
            'taste'=>'sweet',
            'shape'=>'round',
            'name'=>'apple',
